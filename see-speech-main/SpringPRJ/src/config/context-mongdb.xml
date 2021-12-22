@@ -8,7 +8,7 @@
 		   http://www.springframework.org/schema/beans
 		   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<mongo:mongo-client host="3.35.246.21" port="27017" credentials="myUser:1234@MyDB" id="mongo">
+	<mongo:mongo-client host="" port="27017" credentials="myUser:1234@MyDB" id="mongo">
 	</mongo:mongo-client>
 
 	<mongo:db-factory dbname="MyDB" mongo-ref="mongo" id="mongoDbFactory"/>
