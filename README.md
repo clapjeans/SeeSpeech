@@ -1,6 +1,6 @@
 # See&Speech
 - STT를 활용해 음성을 시각적으로 분석, 교정하는 애플리케이션
-- 링크 - https://joinspeech.com/
+- 링크 - https://joinspeech.com/ (만료)
 
 ### 진행 기간 : 2021-03-08 ~ 2021-11-30    
 
